@@ -2,7 +2,8 @@
 ---
 title: Test post
 layout: post
-date: 2017-02 22 22:00
+date: 2017-02-02 22:00
+author: jamesfoster
 ---
 # Heading
 
