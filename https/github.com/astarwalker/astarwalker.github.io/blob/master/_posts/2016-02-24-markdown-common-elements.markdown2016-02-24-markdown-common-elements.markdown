@@ -1,4 +1,4 @@
-
+ 
 ---
 title: Test post
 layout: post
@@ -11,4 +11,4 @@ some text
 
 list:
 - L1
--L2
+- L2
